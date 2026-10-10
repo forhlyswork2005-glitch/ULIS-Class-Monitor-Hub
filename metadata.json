@@ -1,0 +1,6 @@
+{
+  "name": "ULIS Class Monitor Hub",
+  "description": "ULIS Class Monitor Hub - Hệ thống quản trị lớp học dành cho lớp trưởng ULIS (Trường Đại học Ngoại ngữ - ĐHQGHN)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
